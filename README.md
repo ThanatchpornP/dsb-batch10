@@ -12,4 +12,4 @@ My data science and analytics projects
 reach out to me at thanatchporn.pm@gmail.com
 
 ## Image
-![The Hulk](https://fermi.gsfc.nasa.gov/science/constellations/pages/inc/img/hulk/Hulk_Artwork.jpg)
+![The Hulk](https://cdn.pixabay.com/photo/2023/07/12/04/26/ai-generated-8121634_1280.jpg)
